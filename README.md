@@ -4,7 +4,7 @@
 按照程序所提示输入所需信息即可。
 
 ### 使用方法
-下载[Calculator.exe](https://github.com/SpongeMinecart/Calculator/raw/master/Calculator.exe)，在目标文件目录下按住`Shift`**右键**，在菜单中点击`用Powershell打开`的按钮，如下图所示：![打开方式](https://raw.githubusercontent.com/SpongeMinecart/ASCII-Converter/master/Box/Click.png)
+下载[ASCII.exe](https://github.com/SpongeMinecart/ASCII-Converter/raw/master/ASCII.exe)，在目标文件目录下按住`Shift`**右键**，在菜单中点击`用Powershell打开`的按钮，如下图所示：![打开方式](https://raw.githubusercontent.com/SpongeMinecart/ASCII-Converter/master/Box/Click.png)
 
 
 
@@ -25,7 +25,6 @@
 
 下载[libstdc++-6.dll](https://github.com/SpongeMinecart/Calculator/raw/master/Pic/libstdc%2B%2B-6.dll)，下载完毕后复制此dll到`C:\Windows\system32`即可。
 
+### 版本号 -beta
 
-### 版本号0.1
-修正了部分错误
 *如有疑问，请联系hmkx.linx@qq.com*
